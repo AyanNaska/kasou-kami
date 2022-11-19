@@ -16,11 +16,17 @@ A better interactive way of education has been proposed which can help students 
 The proposed method can be used for the training soldiers.It can also be used for shortlisting capable soldiers.
 
 Future Scope:
+
 -Implementation of Machine Learning
- Unity provides plugin for machine learning.It is one of the best platform for implementation of reinforcement learning algorithm as this algorithm involves agent learning from interacting with the environement .Unity as a game engine provides plathora of possibilites of creating Environment and Its scripting features can be used to define the behabiour of the enviornment.
+
+Unity provides plugin for machine learning.It is one of the best platform for implementation of reinforcement learning algorithm as this algorithm involves agent learning from interacting with the environement .Unity as a game engine provides plathora of possibilites of creating Environment and Its scripting features can be used to define the behabiour of the enviornment.
+ 
 -Augmented Reality
+
 The Unity game engine can be used for AR to find real world solution because it is a powerful tool that can be used to create high quality 3D and 2D games. It also has a large community of developers who can offer support and advice.
+
 -Digital Twin
+
 With advancement in wireless communication technologies Digital Twin has become a hot topic for Research.Digital Twin is representation of real world in virtual environment as much accurately as possible.Unity as a game engine makes it easy to simulate physics in virtual environment.
 
 Tech Stack:
