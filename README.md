@@ -1,4 +1,11 @@
 # Kasou-Kami (V_Sol)
+
+#Hackathon- 9Hacks (NTL-AP)
+Team Members:
+1. Ayan Naska
+2. Kumar Sashank
+3. Amrit Kumar
+
 Introduction:
 
 Unity is a platform for creating and operating real-time 3d contents. This platform can be used not just for game development but also developing many types of AR VR across many different industries, manufacturing, engineering, construction, architecture, media, entertainment and now for industrial simulation including robotics simulation which is what we performed.
@@ -15,6 +22,9 @@ A better interactive way of education has been proposed which can help students 
 
 3.Defense Sector:
 The proposed method can be used for the training soldiers.It can also be used for shortlisting capable soldiers.
+
+#Screenshots:
+
 
 Future Scope:
 
