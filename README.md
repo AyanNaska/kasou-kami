@@ -1,4 +1,4 @@
-# kasou-kami (V_Sol)
+# Kasou-Kami (V_Sol)
 Introduction:
 
 Unity is a platform for creating and operating real-time 3d contents. This platform can be used not just for game development but also developing many types of AR VR across many different industries, manufacturing, engineering, construction, architecture, media, entertainment and now for industrial simulation including robotics simulation which is what we performed.
