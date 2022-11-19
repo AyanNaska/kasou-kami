@@ -6,6 +6,7 @@ Unity is a platform for creating and operating real-time 3d contents. This platf
 Aim: To solving real world problems using Virtual Reality.
 
 Proposed solutions for problems in different sectors
+
 1.Medical Sector:
  In this a application has been created which can be used as a therapy for those peoples who are suffering from height phobia.
 
