@@ -24,6 +24,9 @@ A better interactive way of education has been proposed which can help students 
 The proposed method can be used for the training soldiers.It can also be used for shortlisting capable soldiers.
 
 #Screenshots:
+![WhatsApp Image 2022-11-19 at 06 28 33](https://user-images.githubusercontent.com/113054786/202826203-fd7d582d-c4d2-4805-94ef-efe9c2309d4e.jpeg)
+![WhatsApp Image 2022-11-19 at 06 28 33 (2)](https://user-images.githubusercontent.com/113054786/202826253-f02ce710-ce04-458b-a5b2-e09aab31c56b.jpeg)
+
 
 
 Future Scope:
